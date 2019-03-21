@@ -1,0 +1,5 @@
+etenv:
+    image: debian
+    extends:
+      file: volumes.yml
+      service: etenv
