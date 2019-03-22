@@ -8,6 +8,8 @@ php71:
   extends:
     file: ./etc/php71/docker-compose.yml
     service: php71
+  links:
+  - mysql:mysqlhost
 
 nginx:
   extends:
@@ -15,5 +17,12 @@ nginx:
     service: nginx
   links:
   - php71:php71host
+  volumes_from:
+  - etenv
+
+mysql:
+  extends:
+    file: ./etc/mysql/docker-compose.yml
+    service: mysql
   volumes_from:
   - etenv
