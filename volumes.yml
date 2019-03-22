@@ -1,0 +1,3 @@
+etenv:
+  volumes:
+    - ../:/var/www/

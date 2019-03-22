@@ -1,0 +1,15 @@
+php71:
+  build: .
+  mem_limit: 800m
+  restart: always
+  volumes:
+  - ./cli-php.ini:/etc/php/7.1/cli/php.ini
+  - ./php-fpm.conf:/etc/php/7.1/fpm/php-fpm.conf
+  - ./php.ini:/etc/php/7.1/fpm/php.ini
+  - ./www.conf:/etc/php/7.1/fpm/pool.d/www.conf
+  - ../../var/www:/var/www
+  - ../../var/log/php7.1-fpm:/var/log/php7.1-fpm
+  - ../../var/log/supervisord:/var/log/supervisord
+  ports:
+  - "9005:9000"
+

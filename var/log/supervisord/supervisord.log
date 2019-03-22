@@ -1,0 +1,7 @@
+2019-03-22 00:02:26,236 CRIT Supervisor running as root (no user in config file)
+2019-03-22 00:02:26,236 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-03-22 00:02:26,242 INFO RPC interface 'supervisor' initialized
+2019-03-22 00:02:26,243 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-03-22 00:02:26,243 INFO supervisord started with pid 1
+2019-03-22 00:02:27,248 INFO spawned: 'php-fpm' with pid 10
+2019-03-22 00:02:28,450 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

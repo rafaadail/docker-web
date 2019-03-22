@@ -3,3 +3,8 @@ etenv:
     extends:
       file: volumes.yml
       service: etenv
+
+php71:
+  extends:
+    file: ./etc/php71/docker-compose.yml
+    service: php71
