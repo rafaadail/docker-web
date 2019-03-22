@@ -8,3 +8,12 @@ php71:
   extends:
     file: ./etc/php71/docker-compose.yml
     service: php71
+
+nginx:
+  extends:
+    file: ./etc/nginx/docker-compose.yml
+    service: nginx
+  links:
+  - php71:php71host
+  volumes_from:
+  - etenv
