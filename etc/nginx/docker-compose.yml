@@ -9,4 +9,4 @@ nginx:
   - ../../var/log/nginx:/var/log/nginx
   - ../../var/www:/var/www/
   ports:
-  - "8000:8000"
+  - "80:80"

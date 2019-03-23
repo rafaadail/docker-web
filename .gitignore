@@ -1,0 +1,24 @@
+# Do not version logs
+var/log/**
+
+# Do not version caches
+var/cache/**
+
+# Do not version MySQL databases
+var/lib/mysql/**
+
+# Do not version sites
+var/www/*
+
+# Version default site
+!var/www/default
+!var/www/default/index.php
+
+# Do not version ssl certs
+etc/nginx/ssl
+
+# Do not version the workshop dependency
+src/workshop
+
+volumes.yml
+.DS_Store
