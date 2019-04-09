@@ -3,10 +3,11 @@ nginx:
   mem_limit: 200m
   restart: always
   volumes:
-  - ./sites:/etc/nginx/conf.d
-  - ./ssl:/etc/nginx/ssl
-  - ./nginx.conf:/etc/nginx/nginx.conf
-  - ../../var/log/nginx:/var/log/nginx
-  - ../../var/www:/var/www/
+    - ./sites:/etc/nginx/conf.d
+    - ./ssl:/etc/nginx/ssl
+    - ./nginx.conf:/etc/nginx/nginx.conf
+    - ../../var/log/nginx:/var/log/nginx
+    - ../../var/www:/var/www/
   ports:
   - "80:80"
+  - "8888:8888"

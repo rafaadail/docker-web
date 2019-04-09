@@ -10,6 +10,8 @@ php71:
     service: php71
   links:
   - mysql:mysqlhost
+  volumes_from:
+  - etenv
 
 nginx:
   extends:
