@@ -9,7 +9,6 @@ RUN apt-get update && apt-get install -y tzdata && \
        php7.1-dom \
 		php7.1-ctype \
 		php7.1-fpm \
-		php7.1-gd \
 		php7.1-intl \
 		php7.1-json \
         php7.1-bcmath \
@@ -27,6 +26,10 @@ RUN apt-get update && apt-get install -y tzdata && \
 		php7.1-iconv \
 		php7.1-phar \
 		php7.1-zip \
+        php7.1-common \
+        php7.1-imagick \
+        gcc \
+        imagemagick \
 		wkhtmltopdf \
         nodejs \
         npm \

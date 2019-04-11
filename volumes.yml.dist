@@ -1,4 +1,5 @@
 etenv:
   volumes:
-    - ../pizzaria:/var/www/pizzaria
+    - ../webpizz:/var/www/webpizz
+    - ../webpizza:/var/www/webpizza
     - ../webenf:/var/www/webenf
