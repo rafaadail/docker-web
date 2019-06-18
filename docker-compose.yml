@@ -28,3 +28,10 @@ mysql:
     service: mysql
   volumes_from:
   - etenv
+
+node:
+  extends:
+    file: ./etc/node/docker-compose.yml
+    service: node
+  volumes_from:
+  - etenv
