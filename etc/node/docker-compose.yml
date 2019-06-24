@@ -1,0 +1,9 @@
+node:
+    build: .
+    ports:
+        # DASHBOARD PRODUÇÃO
+        - "3000:3000"
+#    restart: always
+    tty: true
+    volumes:
+        - ../../../:/var/www

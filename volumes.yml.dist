@@ -3,4 +3,4 @@ etenv:
     - ../webpizz:/var/www/webpizz
     - ../webpizza:/var/www/webpizza
     - ../webenf:/var/www/webenf
-    - ../react-app:/var/www/react-app
+    - ../react-doc:/var/www/react-doc
