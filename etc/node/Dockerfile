@@ -1,14 +1,14 @@
 FROM node:latest
 
 # Create app directory
-RUN mkdir -p /usr/src/app
+#RUN mkdir -p /usr/src/app
 
-WORKDIR /usr/src/app
+WORKDIR /var/www/react-doc
 
 # Install app dependencies
 # A wildcard is used to ensure both package.json AND package-lock.json are copied
 # where available (npm@5+)
-COPY package.json /usr/src/app/
+COPY package.json /var/www/react-doc/
 
 RUN npm install
 #RUN  yarn global add create-react-app
