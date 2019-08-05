@@ -3,6 +3,7 @@ node:
     ports:
         # DASHBOARD PRODUÇÃO
         - "3000:3000"
+        - "3002:3002"
 #    restart: always
     tty: true
     volumes:
