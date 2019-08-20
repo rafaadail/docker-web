@@ -4,6 +4,7 @@ node:
         # DASHBOARD PRODUÇÃO
         - "3000:3000"
         - "3002:3002"
+        - "3333:3333"
 #    restart: always
     tty: true
     volumes:
