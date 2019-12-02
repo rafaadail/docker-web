@@ -35,10 +35,3 @@ node:
     service: node
   volumes_from:
   - etenv
-
-reactnative:
-  extends:
-    file: ./etc/reactnative/docker-compose.yml
-    service: reactnative
-  volumes_from:
-  - etenv

@@ -3,12 +3,18 @@ FROM node:10.16.3
 # Create app directory
 #RUN mkdir -p /usr/src/app
 
-WORKDIR /var/www/omnistack
+WORKDIR /var/www/omnistack9.0
 
 # Install app dependencies
 # A wildcard is used to ensure both package.json AND package-lock.json are copied
 # where available (npm@5+)
-COPY package.json /var/www/omnistack/
+COPY package.json /var/www/omnistack9.0/
+
+EXPOSE 19000
+EXPOSE 19001
+EXPOSE 19002
+
+ENV REACT_NATIVE_PACKAGER_HOSTNAME="172.17.0.11"
 
 RUN apt-get update \
 && apt-get install curl \

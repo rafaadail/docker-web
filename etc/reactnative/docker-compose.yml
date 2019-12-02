@@ -1,9 +1,0 @@
-reactnative:
-    build: .
-    ports:
-        # DASHBOARD PRODUÇÃO
-        - "3001:3000"
-#    restart: always
-    tty: true
-    volumes:
-        - ../../../:/var/www

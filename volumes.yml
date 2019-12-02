@@ -1,3 +1,8 @@
 etenv:
   volumes:
-    - ../:/var/www/
+    - ../webpizza:/var/www/webpizza
+    - ../webenf:/var/www/webenf
+    - ../react-doc:/var/www/react-doc
+    - ../LARAVEL/api-rest-webpizza:/var/www/LARAVEL/api-rest-webpizza
+    - ../LARAVEL/api-webpizza:/var/www/LARAVEL/api-webpizza
+    - ../omnistack9.0:/var/www/omnistack9.0

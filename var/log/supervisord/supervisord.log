@@ -5,3 +5,916 @@
 2019-03-22 00:02:26,243 INFO supervisord started with pid 1
 2019-03-22 00:02:27,248 INFO spawned: 'php-fpm' with pid 10
 2019-03-22 00:02:28,450 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-05 14:32:25,315 CRIT Supervisor running as root (no user in config file)
+2019-08-05 14:32:25,316 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-05 14:32:25,331 INFO RPC interface 'supervisor' initialized
+2019-08-05 14:32:25,331 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-05 14:32:25,331 INFO supervisord started with pid 1
+2019-08-05 14:32:26,334 INFO spawned: 'php-fpm' with pid 8
+2019-08-05 14:32:27,675 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-07 10:50:57,565 WARN received SIGTERM indicating exit request
+2019-08-07 10:50:57,605 INFO waiting for php-fpm to die
+2019-08-07 10:50:58,207 INFO stopped: php-fpm (exit status 0)
+2019-08-07 10:51:34,828 CRIT Supervisor running as root (no user in config file)
+2019-08-07 10:51:34,828 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-07 10:51:34,854 INFO RPC interface 'supervisor' initialized
+2019-08-07 10:51:34,854 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-07 10:51:34,854 INFO supervisord started with pid 1
+2019-08-07 10:51:35,857 INFO spawned: 'php-fpm' with pid 8
+2019-08-07 10:51:37,109 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-07 11:02:08,268 WARN received SIGTERM indicating exit request
+2019-08-07 11:02:08,269 INFO waiting for php-fpm to die
+2019-08-07 11:02:08,340 INFO stopped: php-fpm (exit status 0)
+2019-08-07 11:02:58,918 CRIT Supervisor running as root (no user in config file)
+2019-08-07 11:02:58,921 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-07 11:02:58,949 INFO RPC interface 'supervisor' initialized
+2019-08-07 11:02:58,949 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-07 11:02:58,949 INFO supervisord started with pid 1
+2019-08-07 11:02:59,951 INFO spawned: 'php-fpm' with pid 8
+2019-08-07 11:03:01,349 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-07 11:04:55,058 WARN received SIGTERM indicating exit request
+2019-08-07 11:04:55,058 INFO waiting for php-fpm to die
+2019-08-07 11:04:55,088 INFO stopped: php-fpm (exit status 0)
+2019-08-07 11:05:45,513 CRIT Supervisor running as root (no user in config file)
+2019-08-07 11:05:45,518 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-07 11:05:45,550 INFO RPC interface 'supervisor' initialized
+2019-08-07 11:05:45,551 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-07 11:05:45,551 INFO supervisord started with pid 1
+2019-08-07 11:05:46,554 INFO spawned: 'php-fpm' with pid 8
+2019-08-07 11:05:47,828 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-08 11:17:55,645 WARN received SIGTERM indicating exit request
+2019-08-08 11:17:55,660 INFO waiting for php-fpm to die
+2019-08-08 11:17:55,906 INFO stopped: php-fpm (exit status 0)
+2019-08-08 11:18:12,046 CRIT Supervisor running as root (no user in config file)
+2019-08-08 11:18:12,047 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-08 11:18:12,092 INFO RPC interface 'supervisor' initialized
+2019-08-08 11:18:12,092 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-08 11:18:12,092 INFO supervisord started with pid 1
+2019-08-08 11:18:13,095 INFO spawned: 'php-fpm' with pid 8
+2019-08-08 11:18:14,411 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-08 11:41:25,389 WARN received SIGTERM indicating exit request
+2019-08-08 11:41:25,406 INFO waiting for php-fpm to die
+2019-08-08 11:41:25,688 INFO stopped: php-fpm (exit status 0)
+2019-08-08 11:41:49,563 CRIT Supervisor running as root (no user in config file)
+2019-08-08 11:41:49,569 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-08 11:41:49,585 INFO RPC interface 'supervisor' initialized
+2019-08-08 11:41:49,585 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-08 11:41:49,586 INFO supervisord started with pid 1
+2019-08-08 11:41:50,592 INFO spawned: 'php-fpm' with pid 8
+2019-08-08 11:41:51,899 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-08 11:43:37,310 WARN received SIGTERM indicating exit request
+2019-08-08 11:43:37,314 INFO waiting for php-fpm to die
+2019-08-08 11:43:37,440 INFO stopped: php-fpm (exit status 0)
+2019-08-08 11:43:58,306 CRIT Supervisor running as root (no user in config file)
+2019-08-08 11:43:58,307 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-08 11:43:58,325 INFO RPC interface 'supervisor' initialized
+2019-08-08 11:43:58,326 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-08 11:43:58,326 INFO supervisord started with pid 1
+2019-08-08 11:43:59,328 INFO spawned: 'php-fpm' with pid 8
+2019-08-08 11:44:00,667 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-08 18:55:30,782 CRIT Supervisor running as root (no user in config file)
+2019-08-08 18:55:30,782 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-08 18:55:31,121 INFO RPC interface 'supervisor' initialized
+2019-08-08 18:55:31,122 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-08 18:55:31,122 INFO supervisord started with pid 1
+2019-08-08 18:55:32,127 INFO spawned: 'php-fpm' with pid 8
+2019-08-08 18:55:33,412 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-08 18:56:44,402 WARN received SIGTERM indicating exit request
+2019-08-08 18:56:44,402 INFO waiting for php-fpm to die
+2019-08-08 18:56:44,457 INFO stopped: php-fpm (exit status 0)
+2019-08-08 18:57:37,022 CRIT Supervisor running as root (no user in config file)
+2019-08-08 18:57:37,023 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-08 18:57:37,046 INFO RPC interface 'supervisor' initialized
+2019-08-08 18:57:37,046 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-08 18:57:37,046 INFO supervisord started with pid 1
+2019-08-08 18:57:38,264 INFO spawned: 'php-fpm' with pid 8
+2019-08-08 18:57:39,677 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-08 19:01:38,505 WARN received SIGTERM indicating exit request
+2019-08-08 19:01:38,518 INFO waiting for php-fpm to die
+2019-08-08 19:01:38,722 INFO stopped: php-fpm (exit status 0)
+2019-08-08 19:22:20,807 CRIT Supervisor running as root (no user in config file)
+2019-08-08 19:22:20,808 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-08 19:22:20,827 INFO RPC interface 'supervisor' initialized
+2019-08-08 19:22:20,827 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-08 19:22:20,828 INFO supervisord started with pid 1
+2019-08-08 19:22:21,834 INFO spawned: 'php-fpm' with pid 8
+2019-08-08 19:22:23,127 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-08 19:24:55,725 CRIT Supervisor running as root (no user in config file)
+2019-08-08 19:24:55,726 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-08 19:24:56,049 INFO RPC interface 'supervisor' initialized
+2019-08-08 19:24:56,049 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-08 19:24:56,049 INFO supervisord started with pid 1
+2019-08-08 19:24:57,052 INFO spawned: 'php-fpm' with pid 8
+2019-08-08 19:24:58,301 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-08 19:30:38,967 WARN received SIGTERM indicating exit request
+2019-08-08 19:30:38,971 INFO waiting for php-fpm to die
+2019-08-08 19:30:39,066 INFO stopped: php-fpm (exit status 0)
+2019-08-08 19:31:23,206 CRIT Supervisor running as root (no user in config file)
+2019-08-08 19:31:23,207 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-08 19:31:23,226 INFO RPC interface 'supervisor' initialized
+2019-08-08 19:31:23,226 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-08 19:31:23,227 INFO supervisord started with pid 1
+2019-08-08 19:31:24,229 INFO spawned: 'php-fpm' with pid 8
+2019-08-08 19:31:25,509 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-08 19:38:14,969 WARN received SIGTERM indicating exit request
+2019-08-08 19:38:14,973 INFO waiting for php-fpm to die
+2019-08-08 19:38:15,073 INFO stopped: php-fpm (exit status 0)
+2019-08-08 20:39:28,784 CRIT Supervisor running as root (no user in config file)
+2019-08-08 20:39:28,785 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-08 20:39:28,810 INFO RPC interface 'supervisor' initialized
+2019-08-08 20:39:28,810 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-08 20:39:28,810 INFO supervisord started with pid 1
+2019-08-08 20:39:29,816 INFO spawned: 'php-fpm' with pid 8
+2019-08-08 20:39:31,113 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-12 11:42:33,541 WARN received SIGTERM indicating exit request
+2019-08-12 11:42:33,662 INFO waiting for php-fpm to die
+2019-08-12 11:42:34,029 INFO stopped: php-fpm (exit status 0)
+2019-08-12 11:42:57,309 CRIT Supervisor running as root (no user in config file)
+2019-08-12 11:42:57,309 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-12 11:42:57,334 INFO RPC interface 'supervisor' initialized
+2019-08-12 11:42:57,334 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-12 11:42:57,334 INFO supervisord started with pid 1
+2019-08-12 11:42:58,337 INFO spawned: 'php-fpm' with pid 8
+2019-08-12 11:42:59,789 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-21 19:02:50,358 WARN received SIGTERM indicating exit request
+2019-08-21 19:02:50,410 INFO waiting for php-fpm to die
+2019-08-21 19:02:51,130 INFO stopped: php-fpm (exit status 0)
+2019-08-21 19:04:51,041 CRIT Supervisor running as root (no user in config file)
+2019-08-21 19:04:51,041 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-21 19:04:51,076 INFO RPC interface 'supervisor' initialized
+2019-08-21 19:04:51,076 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-21 19:04:51,076 INFO supervisord started with pid 1
+2019-08-21 19:04:52,080 INFO spawned: 'php-fpm' with pid 8
+2019-08-21 19:04:53,564 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-21 19:05:46,577 WARN received SIGTERM indicating exit request
+2019-08-21 19:05:46,577 INFO waiting for php-fpm to die
+2019-08-21 19:05:46,612 INFO stopped: php-fpm (exit status 0)
+2019-08-21 19:06:37,638 CRIT Supervisor running as root (no user in config file)
+2019-08-21 19:06:37,639 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-21 19:06:37,671 INFO RPC interface 'supervisor' initialized
+2019-08-21 19:06:37,671 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-21 19:06:37,671 INFO supervisord started with pid 1
+2019-08-21 19:06:38,674 INFO spawned: 'php-fpm' with pid 8
+2019-08-21 19:06:39,966 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-22 15:32:49,726 CRIT Supervisor running as root (no user in config file)
+2019-08-22 15:32:49,726 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-22 15:32:50,044 INFO RPC interface 'supervisor' initialized
+2019-08-22 15:32:50,044 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-22 15:32:50,045 INFO supervisord started with pid 1
+2019-08-22 15:32:51,048 INFO spawned: 'php-fpm' with pid 8
+2019-08-22 15:32:52,324 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-22 15:44:22,059 WARN received SIGTERM indicating exit request
+2019-08-22 15:44:22,059 INFO waiting for php-fpm to die
+2019-08-22 15:44:22,085 INFO stopped: php-fpm (exit status 0)
+2019-08-22 15:45:13,179 CRIT Supervisor running as root (no user in config file)
+2019-08-22 15:45:13,180 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-22 15:45:13,198 INFO RPC interface 'supervisor' initialized
+2019-08-22 15:45:13,198 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-22 15:45:13,199 INFO supervisord started with pid 1
+2019-08-22 15:45:14,201 INFO spawned: 'php-fpm' with pid 8
+2019-08-22 15:45:15,471 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-22 15:47:00,235 WARN received SIGTERM indicating exit request
+2019-08-22 15:47:00,235 INFO waiting for php-fpm to die
+2019-08-22 15:47:00,266 INFO stopped: php-fpm (exit status 0)
+2019-08-22 15:48:07,752 CRIT Supervisor running as root (no user in config file)
+2019-08-22 15:48:07,752 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-22 15:48:07,774 INFO RPC interface 'supervisor' initialized
+2019-08-22 15:48:07,774 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-22 15:48:07,774 INFO supervisord started with pid 1
+2019-08-22 15:48:08,776 INFO spawned: 'php-fpm' with pid 8
+2019-08-22 15:48:10,042 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-22 15:51:35,124 WARN received SIGTERM indicating exit request
+2019-08-22 15:51:35,124 INFO waiting for php-fpm to die
+2019-08-22 15:51:35,161 INFO stopped: php-fpm (exit status 0)
+2019-08-22 15:52:26,458 CRIT Supervisor running as root (no user in config file)
+2019-08-22 15:52:26,459 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-22 15:52:26,480 INFO RPC interface 'supervisor' initialized
+2019-08-22 15:52:26,480 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-22 15:52:26,480 INFO supervisord started with pid 1
+2019-08-22 15:52:27,482 INFO spawned: 'php-fpm' with pid 8
+2019-08-22 15:52:28,725 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-22 15:53:26,551 WARN received SIGTERM indicating exit request
+2019-08-22 15:53:26,551 INFO waiting for php-fpm to die
+2019-08-22 15:53:26,579 INFO stopped: php-fpm (exit status 0)
+2019-08-22 15:53:58,188 CRIT Supervisor running as root (no user in config file)
+2019-08-22 15:53:58,188 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-22 15:53:58,204 INFO RPC interface 'supervisor' initialized
+2019-08-22 15:53:58,204 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-22 15:53:58,205 INFO supervisord started with pid 1
+2019-08-22 15:53:59,207 INFO spawned: 'php-fpm' with pid 8
+2019-08-22 15:54:00,460 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-22 17:15:05,475 WARN received SIGTERM indicating exit request
+2019-08-22 17:15:05,476 INFO waiting for php-fpm to die
+2019-08-22 17:15:05,505 INFO stopped: php-fpm (exit status 0)
+2019-08-22 17:15:57,370 CRIT Supervisor running as root (no user in config file)
+2019-08-22 17:15:57,370 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-22 17:15:57,389 INFO RPC interface 'supervisor' initialized
+2019-08-22 17:15:57,390 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-22 17:15:57,390 INFO supervisord started with pid 1
+2019-08-22 17:15:58,392 INFO spawned: 'php-fpm' with pid 9
+2019-08-22 17:15:59,669 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 10:48:37,947 WARN received SIGTERM indicating exit request
+2019-08-27 10:48:38,006 INFO waiting for php-fpm to die
+2019-08-27 10:48:38,877 INFO stopped: php-fpm (exit status 0)
+2019-08-27 10:48:41,879 CRIT Supervisor running as root (no user in config file)
+2019-08-27 10:48:41,879 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 10:48:41,892 INFO RPC interface 'supervisor' initialized
+2019-08-27 10:48:41,892 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 10:48:41,892 INFO supervisord started with pid 1
+2019-08-27 10:48:42,897 INFO spawned: 'php-fpm' with pid 8
+2019-08-27 10:48:44,211 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 17:23:44,520 WARN received SIGTERM indicating exit request
+2019-08-27 17:23:44,555 INFO waiting for php-fpm to die
+2019-08-27 17:23:45,514 INFO stopped: php-fpm (exit status 0)
+2019-08-27 17:23:48,492 CRIT Supervisor running as root (no user in config file)
+2019-08-27 17:23:48,493 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 17:23:48,508 INFO RPC interface 'supervisor' initialized
+2019-08-27 17:23:48,508 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 17:23:48,509 INFO supervisord started with pid 1
+2019-08-27 17:23:49,543 INFO spawned: 'php-fpm' with pid 8
+2019-08-27 17:23:51,082 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 17:26:09,124 WARN received SIGTERM indicating exit request
+2019-08-27 17:26:09,130 INFO waiting for php-fpm to die
+2019-08-27 17:26:09,283 INFO stopped: php-fpm (exit status 0)
+2019-08-27 17:26:32,621 CRIT Supervisor running as root (no user in config file)
+2019-08-27 17:26:32,621 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 17:26:32,639 INFO RPC interface 'supervisor' initialized
+2019-08-27 17:26:32,639 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 17:26:32,640 INFO supervisord started with pid 1
+2019-08-27 17:26:33,642 INFO spawned: 'php-fpm' with pid 9
+2019-08-27 17:26:34,954 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 17:31:47,813 WARN received SIGTERM indicating exit request
+2019-08-27 17:31:47,820 INFO waiting for php-fpm to die
+2019-08-27 17:31:47,951 INFO stopped: php-fpm (exit status 0)
+2019-08-27 17:32:14,473 CRIT Supervisor running as root (no user in config file)
+2019-08-27 17:32:14,473 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 17:32:14,491 INFO RPC interface 'supervisor' initialized
+2019-08-27 17:32:14,492 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 17:32:14,492 INFO supervisord started with pid 1
+2019-08-27 17:32:15,498 INFO spawned: 'php-fpm' with pid 8
+2019-08-27 17:32:16,800 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 17:38:23,291 WARN received SIGTERM indicating exit request
+2019-08-27 17:38:23,354 INFO waiting for php-fpm to die
+2019-08-27 17:38:23,763 INFO stopped: php-fpm (exit status 0)
+2019-08-27 17:43:27,376 CRIT Supervisor running as root (no user in config file)
+2019-08-27 17:43:27,376 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 17:43:27,398 INFO RPC interface 'supervisor' initialized
+2019-08-27 17:43:27,398 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 17:43:27,398 INFO supervisord started with pid 1
+2019-08-27 17:43:28,401 INFO spawned: 'php-fpm' with pid 8
+2019-08-27 17:43:29,652 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 17:45:15,188 WARN received SIGTERM indicating exit request
+2019-08-27 17:45:15,189 INFO waiting for php-fpm to die
+2019-08-27 17:45:15,222 INFO stopped: php-fpm (exit status 0)
+2019-08-27 17:46:16,921 CRIT Supervisor running as root (no user in config file)
+2019-08-27 17:46:16,922 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 17:46:16,991 INFO RPC interface 'supervisor' initialized
+2019-08-27 17:46:16,991 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 17:46:16,991 INFO supervisord started with pid 1
+2019-08-27 17:46:17,993 INFO spawned: 'php-fpm' with pid 8
+2019-08-27 17:46:19,308 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 17:52:53,899 WARN received SIGTERM indicating exit request
+2019-08-27 17:52:53,899 INFO waiting for php-fpm to die
+2019-08-27 17:52:53,928 INFO stopped: php-fpm (exit status 0)
+2019-08-27 17:52:56,023 CRIT Supervisor running as root (no user in config file)
+2019-08-27 17:52:56,024 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 17:52:56,053 INFO RPC interface 'supervisor' initialized
+2019-08-27 17:52:56,053 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 17:52:56,053 INFO supervisord started with pid 1
+2019-08-27 17:52:57,056 INFO spawned: 'php-fpm' with pid 8
+2019-08-27 17:52:58,159 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 20:24:17,925 WARN received SIGTERM indicating exit request
+2019-08-27 20:24:17,929 INFO waiting for php-fpm to die
+2019-08-27 20:24:18,262 INFO stopped: php-fpm (exit status 0)
+2019-08-27 20:24:20,643 CRIT Supervisor running as root (no user in config file)
+2019-08-27 20:24:20,643 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 20:24:20,657 INFO RPC interface 'supervisor' initialized
+2019-08-27 20:24:20,657 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 20:24:20,658 INFO supervisord started with pid 1
+2019-08-27 20:24:21,660 INFO spawned: 'php-fpm' with pid 8
+2019-08-27 20:24:22,846 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 20:55:43,374 WARN received SIGTERM indicating exit request
+2019-08-27 20:55:43,375 INFO waiting for php-fpm to die
+2019-08-27 20:55:43,413 INFO stopped: php-fpm (exit status 0)
+2019-08-27 20:55:45,484 CRIT Supervisor running as root (no user in config file)
+2019-08-27 20:55:45,485 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 20:55:45,504 INFO RPC interface 'supervisor' initialized
+2019-08-27 20:55:45,504 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 20:55:45,505 INFO supervisord started with pid 1
+2019-08-27 20:55:46,507 INFO spawned: 'php-fpm' with pid 8
+2019-08-27 20:55:47,645 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 20:59:14,018 WARN received SIGTERM indicating exit request
+2019-08-27 20:59:14,019 INFO waiting for php-fpm to die
+2019-08-27 20:59:14,037 INFO stopped: php-fpm (exit status 0)
+2019-08-27 20:59:16,033 CRIT Supervisor running as root (no user in config file)
+2019-08-27 20:59:16,034 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 20:59:16,046 INFO RPC interface 'supervisor' initialized
+2019-08-27 20:59:16,046 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 20:59:16,046 INFO supervisord started with pid 1
+2019-08-27 20:59:17,049 INFO spawned: 'php-fpm' with pid 8
+2019-08-27 20:59:18,119 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 21:07:17,977 WARN received SIGTERM indicating exit request
+2019-08-27 21:07:17,982 INFO waiting for php-fpm to die
+2019-08-27 21:07:18,243 INFO stopped: php-fpm (exit status 0)
+2019-08-27 21:07:20,111 CRIT Supervisor running as root (no user in config file)
+2019-08-27 21:07:20,111 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 21:07:20,138 INFO RPC interface 'supervisor' initialized
+2019-08-27 21:07:20,138 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 21:07:20,138 INFO supervisord started with pid 1
+2019-08-27 21:07:21,141 INFO spawned: 'php-fpm' with pid 9
+2019-08-27 21:07:22,300 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 21:09:15,391 WARN received SIGTERM indicating exit request
+2019-08-27 21:09:15,391 INFO waiting for php-fpm to die
+2019-08-27 21:09:15,405 INFO stopped: php-fpm (exit status 0)
+2019-08-27 21:09:17,172 CRIT Supervisor running as root (no user in config file)
+2019-08-27 21:09:17,173 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 21:09:17,188 INFO RPC interface 'supervisor' initialized
+2019-08-27 21:09:17,189 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 21:09:17,189 INFO supervisord started with pid 1
+2019-08-27 21:09:18,193 INFO spawned: 'php-fpm' with pid 8
+2019-08-27 21:09:19,265 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 21:11:09,823 WARN received SIGTERM indicating exit request
+2019-08-27 21:11:09,824 INFO waiting for php-fpm to die
+2019-08-27 21:11:09,840 INFO stopped: php-fpm (exit status 0)
+2019-08-27 21:11:11,943 CRIT Supervisor running as root (no user in config file)
+2019-08-27 21:11:11,943 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 21:11:11,955 INFO RPC interface 'supervisor' initialized
+2019-08-27 21:11:11,955 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 21:11:11,955 INFO supervisord started with pid 1
+2019-08-27 21:11:12,957 INFO spawned: 'php-fpm' with pid 8
+2019-08-27 21:11:14,070 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 21:11:27,488 WARN received SIGTERM indicating exit request
+2019-08-27 21:11:27,489 INFO waiting for php-fpm to die
+2019-08-27 21:11:27,504 INFO stopped: php-fpm (exit status 0)
+2019-08-27 21:11:29,305 CRIT Supervisor running as root (no user in config file)
+2019-08-27 21:11:29,305 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 21:11:29,319 INFO RPC interface 'supervisor' initialized
+2019-08-27 21:11:29,319 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 21:11:29,319 INFO supervisord started with pid 1
+2019-08-27 21:11:30,321 INFO spawned: 'php-fpm' with pid 8
+2019-08-27 21:11:31,399 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 21:13:05,341 WARN received SIGTERM indicating exit request
+2019-08-27 21:13:05,342 INFO waiting for php-fpm to die
+2019-08-27 21:13:05,353 INFO stopped: php-fpm (exit status 0)
+2019-08-27 21:13:37,251 CRIT Supervisor running as root (no user in config file)
+2019-08-27 21:13:37,252 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 21:13:37,267 INFO RPC interface 'supervisor' initialized
+2019-08-27 21:13:37,267 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 21:13:37,268 INFO supervisord started with pid 1
+2019-08-27 21:13:38,272 INFO spawned: 'php-fpm' with pid 8
+2019-08-27 21:13:39,468 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 21:14:42,748 WARN received SIGTERM indicating exit request
+2019-08-27 21:14:42,748 INFO waiting for php-fpm to die
+2019-08-27 21:14:42,760 INFO stopped: php-fpm (exit status 0)
+2019-08-27 21:14:44,588 CRIT Supervisor running as root (no user in config file)
+2019-08-27 21:14:44,588 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 21:14:44,598 INFO RPC interface 'supervisor' initialized
+2019-08-27 21:14:44,598 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 21:14:44,598 INFO supervisord started with pid 1
+2019-08-27 21:14:45,600 INFO spawned: 'php-fpm' with pid 8
+2019-08-27 21:14:46,676 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 21:15:04,732 WARN received SIGTERM indicating exit request
+2019-08-27 21:15:04,732 INFO waiting for php-fpm to die
+2019-08-27 21:15:04,742 INFO stopped: php-fpm (exit status 0)
+2019-08-27 21:15:29,497 CRIT Supervisor running as root (no user in config file)
+2019-08-27 21:15:29,497 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-27 21:15:29,508 INFO RPC interface 'supervisor' initialized
+2019-08-27 21:15:29,508 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-27 21:15:29,508 INFO supervisord started with pid 1
+2019-08-27 21:15:30,512 INFO spawned: 'php-fpm' with pid 9
+2019-08-27 21:15:31,579 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-27 22:37:20,227 INFO reaped unknown pid 189
+2019-08-27 22:39:41,050 INFO reaped unknown pid 190
+2019-08-27 22:39:41,059 INFO reaped unknown pid 188
+2019-08-30 21:09:37,886 WARN received SIGTERM indicating exit request
+2019-08-30 21:09:37,932 INFO waiting for php-fpm to die
+2019-08-30 21:09:38,335 INFO stopped: php-fpm (exit status 0)
+2019-08-30 21:09:41,278 CRIT Supervisor running as root (no user in config file)
+2019-08-30 21:09:41,278 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-30 21:09:41,300 INFO RPC interface 'supervisor' initialized
+2019-08-30 21:09:41,300 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-30 21:09:41,300 INFO supervisord started with pid 1
+2019-08-30 21:09:42,304 INFO spawned: 'php-fpm' with pid 9
+2019-08-30 21:09:43,477 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 21:12:01,474 WARN received SIGTERM indicating exit request
+2019-08-30 21:12:01,474 INFO waiting for php-fpm to die
+2019-08-30 21:12:01,516 INFO stopped: php-fpm (exit status 0)
+2019-08-30 21:12:03,517 CRIT Supervisor running as root (no user in config file)
+2019-08-30 21:12:03,517 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-30 21:12:03,534 INFO RPC interface 'supervisor' initialized
+2019-08-30 21:12:03,534 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-30 21:12:03,534 INFO supervisord started with pid 1
+2019-08-30 21:12:04,537 INFO spawned: 'php-fpm' with pid 8
+2019-08-30 21:12:05,731 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 21:12:50,654 WARN received SIGTERM indicating exit request
+2019-08-30 21:12:50,654 INFO waiting for php-fpm to die
+2019-08-30 21:12:50,693 INFO stopped: php-fpm (exit status 0)
+2019-08-30 21:13:19,963 CRIT Supervisor running as root (no user in config file)
+2019-08-30 21:13:19,963 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-30 21:13:19,977 INFO RPC interface 'supervisor' initialized
+2019-08-30 21:13:19,977 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-30 21:13:19,977 INFO supervisord started with pid 1
+2019-08-30 21:13:20,981 INFO spawned: 'php-fpm' with pid 8
+2019-08-30 21:13:22,093 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 21:13:52,762 WARN received SIGTERM indicating exit request
+2019-08-30 21:13:52,762 INFO waiting for php-fpm to die
+2019-08-30 21:13:52,772 INFO stopped: php-fpm (exit status 0)
+2019-08-30 21:14:14,405 CRIT Supervisor running as root (no user in config file)
+2019-08-30 21:14:14,406 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-30 21:14:14,418 INFO RPC interface 'supervisor' initialized
+2019-08-30 21:14:14,418 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-30 21:14:14,418 INFO supervisord started with pid 1
+2019-08-30 21:14:15,422 INFO spawned: 'php-fpm' with pid 8
+2019-08-30 21:14:16,507 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 21:15:40,726 WARN received SIGTERM indicating exit request
+2019-08-30 21:15:40,726 INFO waiting for php-fpm to die
+2019-08-30 21:15:40,737 INFO stopped: php-fpm (exit status 0)
+2019-08-30 21:16:04,840 CRIT Supervisor running as root (no user in config file)
+2019-08-30 21:16:04,840 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-30 21:16:04,857 INFO RPC interface 'supervisor' initialized
+2019-08-30 21:16:04,858 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-30 21:16:04,858 INFO supervisord started with pid 1
+2019-08-30 21:16:05,865 INFO spawned: 'php-fpm' with pid 8
+2019-08-30 21:16:06,988 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 21:33:06,431 WARN received SIGTERM indicating exit request
+2019-08-30 21:33:06,441 INFO waiting for php-fpm to die
+2019-08-30 21:33:06,472 INFO stopped: php-fpm (exit status 0)
+2019-08-30 21:33:42,461 CRIT Supervisor running as root (no user in config file)
+2019-08-30 21:33:42,461 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-08-30 21:33:42,479 INFO RPC interface 'supervisor' initialized
+2019-08-30 21:33:42,480 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-08-30 21:33:42,480 INFO supervisord started with pid 1
+2019-08-30 21:33:43,484 INFO spawned: 'php-fpm' with pid 8
+2019-08-30 21:33:44,612 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-08-30 22:52:20,295 INFO reaped unknown pid 167
+2019-08-30 22:52:32,167 INFO reaped unknown pid 168
+2019-08-30 22:52:36,076 INFO reaped unknown pid 169
+2019-08-30 22:52:57,989 INFO reaped unknown pid 170
+2019-08-30 22:55:04,088 INFO reaped unknown pid 171
+2019-08-30 22:55:04,104 INFO reaped unknown pid 166
+2019-08-30 22:56:05,878 INFO reaped unknown pid 184
+2019-08-30 22:56:16,470 INFO reaped unknown pid 185
+2019-08-30 22:56:16,489 INFO reaped unknown pid 183
+2019-08-30 23:00:50,363 INFO reaped unknown pid 212
+2019-08-30 23:00:50,378 INFO reaped unknown pid 211
+2019-09-01 05:54:05,490 WARN received SIGTERM indicating exit request
+2019-09-01 05:54:05,512 INFO waiting for php-fpm to die
+2019-09-01 05:54:05,985 INFO stopped: php-fpm (exit status 0)
+2019-09-02 10:36:06,439 CRIT Supervisor running as root (no user in config file)
+2019-09-02 10:36:06,439 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-09-02 10:36:06,456 INFO RPC interface 'supervisor' initialized
+2019-09-02 10:36:06,456 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-09-02 10:36:06,456 INFO supervisord started with pid 1
+2019-09-02 10:36:07,459 INFO spawned: 'php-fpm' with pid 8
+2019-09-02 10:36:08,694 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-09-02 10:53:40,686 WARN received SIGTERM indicating exit request
+2019-09-02 10:53:40,686 INFO waiting for php-fpm to die
+2019-09-02 10:53:40,713 INFO stopped: php-fpm (exit status 0)
+2019-09-02 10:56:03,612 CRIT Supervisor running as root (no user in config file)
+2019-09-02 10:56:03,612 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-09-02 10:56:03,636 INFO RPC interface 'supervisor' initialized
+2019-09-02 10:56:03,636 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-09-02 10:56:03,636 INFO supervisord started with pid 1
+2019-09-02 10:56:04,639 INFO spawned: 'php-fpm' with pid 8
+2019-09-02 10:56:05,904 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-09-02 20:03:06,142 WARN received SIGTERM indicating exit request
+2019-09-02 20:03:06,157 INFO waiting for php-fpm to die
+2019-09-02 20:03:06,374 INFO stopped: php-fpm (exit status 0)
+2019-09-02 20:03:17,968 CRIT Supervisor running as root (no user in config file)
+2019-09-02 20:03:17,968 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-09-02 20:03:17,994 INFO RPC interface 'supervisor' initialized
+2019-09-02 20:03:17,994 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-09-02 20:03:17,994 INFO supervisord started with pid 1
+2019-09-02 20:03:18,999 INFO spawned: 'php-fpm' with pid 8
+2019-09-02 20:03:20,275 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-09-03 20:55:19,006 CRIT Supervisor running as root (no user in config file)
+2019-09-03 20:55:19,006 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-09-03 20:55:19,329 INFO RPC interface 'supervisor' initialized
+2019-09-03 20:55:19,330 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-09-03 20:55:19,330 INFO supervisord started with pid 1
+2019-09-03 20:55:20,334 INFO spawned: 'php-fpm' with pid 8
+2019-09-03 20:55:21,620 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-09-04 10:39:55,316 WARN received SIGTERM indicating exit request
+2019-09-04 10:39:55,316 INFO waiting for php-fpm to die
+2019-09-04 10:39:55,338 INFO stopped: php-fpm (exit status 0)
+2019-09-04 10:40:39,006 CRIT Supervisor running as root (no user in config file)
+2019-09-04 10:40:39,006 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-09-04 10:40:39,029 INFO RPC interface 'supervisor' initialized
+2019-09-04 10:40:39,029 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-09-04 10:40:39,030 INFO supervisord started with pid 1
+2019-09-04 10:40:40,032 INFO spawned: 'php-fpm' with pid 9
+2019-09-04 10:40:41,322 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-09-11 15:16:38,889 WARN received SIGTERM indicating exit request
+2019-09-11 15:16:38,920 INFO waiting for php-fpm to die
+2019-09-11 15:16:39,386 INFO stopped: php-fpm (exit status 0)
+2019-09-11 15:17:30,421 CRIT Supervisor running as root (no user in config file)
+2019-09-11 15:17:30,422 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-09-11 15:17:30,451 INFO RPC interface 'supervisor' initialized
+2019-09-11 15:17:30,452 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-09-11 15:17:30,452 INFO supervisord started with pid 1
+2019-09-11 15:17:31,455 INFO spawned: 'php-fpm' with pid 8
+2019-09-11 15:17:32,731 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-09-11 17:40:29,067 INFO reaped unknown pid 53
+2019-09-11 17:40:29,100 INFO reaped unknown pid 52
+2019-09-11 17:47:40,158 INFO reaped unknown pid 91
+2019-09-24 11:20:22,894 WARN received SIGTERM indicating exit request
+2019-09-24 11:20:22,966 INFO waiting for php-fpm to die
+2019-09-24 11:20:23,494 INFO stopped: php-fpm (exit status 0)
+2019-09-24 11:22:19,663 CRIT Supervisor running as root (no user in config file)
+2019-09-24 11:22:19,663 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-09-24 11:22:19,692 INFO RPC interface 'supervisor' initialized
+2019-09-24 11:22:19,692 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-09-24 11:22:19,692 INFO supervisord started with pid 1
+2019-09-24 11:22:20,700 INFO spawned: 'php-fpm' with pid 8
+2019-09-24 11:22:21,960 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-09-24 11:30:09,951 WARN received SIGTERM indicating exit request
+2019-09-24 11:30:09,951 INFO waiting for php-fpm to die
+2019-09-24 11:30:09,977 INFO stopped: php-fpm (exit status 0)
+2019-09-24 11:30:36,821 CRIT Supervisor running as root (no user in config file)
+2019-09-24 11:30:36,822 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-09-24 11:30:36,857 INFO RPC interface 'supervisor' initialized
+2019-09-24 11:30:36,857 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-09-24 11:30:36,857 INFO supervisord started with pid 1
+2019-09-24 11:30:37,863 INFO spawned: 'php-fpm' with pid 8
+2019-09-24 11:30:39,141 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 18:25:58,528 WARN received SIGTERM indicating exit request
+2019-10-02 18:25:58,599 INFO waiting for php-fpm to die
+2019-10-02 18:25:59,088 INFO stopped: php-fpm (exit status 0)
+2019-10-02 18:26:33,491 CRIT Supervisor running as root (no user in config file)
+2019-10-02 18:26:33,492 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-10-02 18:26:33,516 INFO RPC interface 'supervisor' initialized
+2019-10-02 18:26:33,516 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-10-02 18:26:33,517 INFO supervisord started with pid 1
+2019-10-02 18:26:34,519 INFO spawned: 'php-fpm' with pid 9
+2019-10-02 18:26:36,143 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 20:25:49,742 WARN received SIGTERM indicating exit request
+2019-10-02 20:25:49,763 INFO waiting for php-fpm to die
+2019-10-02 20:25:50,130 INFO stopped: php-fpm (exit status 0)
+2019-10-02 20:28:39,703 CRIT Supervisor running as root (no user in config file)
+2019-10-02 20:28:39,714 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-10-02 20:28:39,734 INFO RPC interface 'supervisor' initialized
+2019-10-02 20:28:39,735 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-10-02 20:28:39,735 INFO supervisord started with pid 1
+2019-10-02 20:28:40,738 INFO spawned: 'php-fpm' with pid 8
+2019-10-02 20:28:42,001 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-02 20:31:00,061 WARN received SIGTERM indicating exit request
+2019-10-02 20:31:00,065 INFO waiting for php-fpm to die
+2019-10-02 20:31:00,118 INFO stopped: php-fpm (exit status 0)
+2019-10-02 20:31:30,980 CRIT Supervisor running as root (no user in config file)
+2019-10-02 20:31:30,980 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-10-02 20:31:31,012 INFO RPC interface 'supervisor' initialized
+2019-10-02 20:31:31,013 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-10-02 20:31:31,013 INFO supervisord started with pid 1
+2019-10-02 20:31:32,020 INFO spawned: 'php-fpm' with pid 8
+2019-10-02 20:31:33,211 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-05 01:21:43,864 WARN received SIGTERM indicating exit request
+2019-10-05 01:21:43,893 INFO waiting for php-fpm to die
+2019-10-05 01:21:44,729 INFO stopped: php-fpm (exit status 0)
+2019-10-05 22:47:20,860 CRIT Supervisor running as root (no user in config file)
+2019-10-05 22:47:20,861 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-10-05 22:47:20,908 INFO RPC interface 'supervisor' initialized
+2019-10-05 22:47:20,908 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-10-05 22:47:20,908 INFO supervisord started with pid 1
+2019-10-05 22:47:21,912 INFO spawned: 'php-fpm' with pid 8
+2019-10-05 22:47:23,224 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-06 01:08:30,855 WARN received SIGTERM indicating exit request
+2019-10-06 01:08:30,860 INFO waiting for php-fpm to die
+2019-10-06 01:08:31,102 INFO stopped: php-fpm (exit status 0)
+2019-10-07 10:47:20,742 CRIT Supervisor running as root (no user in config file)
+2019-10-07 10:47:20,743 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-10-07 10:47:20,799 INFO RPC interface 'supervisor' initialized
+2019-10-07 10:47:20,803 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-10-07 10:47:20,803 INFO supervisord started with pid 1
+2019-10-07 10:47:21,806 INFO spawned: 'php-fpm' with pid 8
+2019-10-07 10:47:23,062 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-07 10:50:28,284 WARN received SIGTERM indicating exit request
+2019-10-07 10:50:28,284 INFO waiting for php-fpm to die
+2019-10-07 10:50:28,310 INFO stopped: php-fpm (exit status 0)
+2019-10-07 10:51:20,127 CRIT Supervisor running as root (no user in config file)
+2019-10-07 10:51:20,128 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-10-07 10:51:20,144 INFO RPC interface 'supervisor' initialized
+2019-10-07 10:51:20,144 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-10-07 10:51:20,145 INFO supervisord started with pid 1
+2019-10-07 10:51:21,147 INFO spawned: 'php-fpm' with pid 8
+2019-10-07 10:51:22,394 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-17 15:25:35,245 WARN received SIGTERM indicating exit request
+2019-10-17 15:25:35,299 INFO waiting for php-fpm to die
+2019-10-17 15:25:35,977 INFO stopped: php-fpm (exit status 0)
+2019-10-17 15:26:12,319 CRIT Supervisor running as root (no user in config file)
+2019-10-17 15:26:12,319 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-10-17 15:26:12,345 INFO RPC interface 'supervisor' initialized
+2019-10-17 15:26:12,345 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-10-17 15:26:12,346 INFO supervisord started with pid 1
+2019-10-17 15:26:13,350 INFO spawned: 'php-fpm' with pid 8
+2019-10-17 15:26:15,029 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-22 18:32:47,198 WARN received SIGTERM indicating exit request
+2019-10-22 18:32:47,222 INFO waiting for php-fpm to die
+2019-10-22 18:32:47,527 INFO stopped: php-fpm (exit status 0)
+2019-10-22 18:33:02,686 CRIT Supervisor running as root (no user in config file)
+2019-10-22 18:33:02,687 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-10-22 18:33:02,716 INFO RPC interface 'supervisor' initialized
+2019-10-22 18:33:02,716 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-10-22 18:33:02,718 INFO supervisord started with pid 1
+2019-10-22 18:33:03,720 INFO spawned: 'php-fpm' with pid 8
+2019-10-22 18:33:05,003 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-23 13:06:02,835 WARN received SIGTERM indicating exit request
+2019-10-23 13:06:02,892 INFO waiting for php-fpm to die
+2019-10-23 13:06:03,610 INFO stopped: php-fpm (exit status 0)
+2019-10-23 13:07:18,268 CRIT Supervisor running as root (no user in config file)
+2019-10-23 13:07:18,270 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-10-23 13:07:18,314 INFO RPC interface 'supervisor' initialized
+2019-10-23 13:07:18,315 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-10-23 13:07:18,315 INFO supervisord started with pid 1
+2019-10-23 13:07:19,317 INFO spawned: 'php-fpm' with pid 8
+2019-10-23 13:07:20,611 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-23 13:08:25,927 WARN received SIGTERM indicating exit request
+2019-10-23 13:08:25,928 INFO waiting for php-fpm to die
+2019-10-23 13:08:25,956 INFO stopped: php-fpm (exit status 0)
+2019-10-23 13:08:53,670 CRIT Supervisor running as root (no user in config file)
+2019-10-23 13:08:53,670 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-10-23 13:08:53,700 INFO RPC interface 'supervisor' initialized
+2019-10-23 13:08:53,700 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-10-23 13:08:53,700 INFO supervisord started with pid 1
+2019-10-23 13:08:54,703 INFO spawned: 'php-fpm' with pid 9
+2019-10-23 13:08:56,008 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-24 22:50:22,178 WARN received SIGTERM indicating exit request
+2019-10-24 22:50:22,221 INFO waiting for php-fpm to die
+2019-10-24 22:50:22,670 INFO stopped: php-fpm (exit status 0)
+2019-10-24 22:51:14,184 CRIT Supervisor running as root (no user in config file)
+2019-10-24 22:51:14,185 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-10-24 22:51:14,214 INFO RPC interface 'supervisor' initialized
+2019-10-24 22:51:14,215 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-10-24 22:51:14,215 INFO supervisord started with pid 1
+2019-10-24 22:51:15,218 INFO spawned: 'php-fpm' with pid 8
+2019-10-24 22:51:16,580 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-10-29 15:32:20,901 WARN received SIGTERM indicating exit request
+2019-10-29 15:32:20,917 INFO waiting for php-fpm to die
+2019-10-29 15:32:21,217 INFO stopped: php-fpm (exit status 0)
+2019-10-29 15:32:33,209 CRIT Supervisor running as root (no user in config file)
+2019-10-29 15:32:33,209 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-10-29 15:32:33,222 INFO RPC interface 'supervisor' initialized
+2019-10-29 15:32:33,222 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-10-29 15:32:33,222 INFO supervisord started with pid 1
+2019-10-29 15:32:34,225 INFO spawned: 'php-fpm' with pid 8
+2019-10-29 15:32:35,522 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-01 11:29:14,196 CRIT Supervisor running as root (no user in config file)
+2019-11-01 11:29:14,197 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-01 11:29:14,527 INFO RPC interface 'supervisor' initialized
+2019-11-01 11:29:14,527 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-01 11:29:14,527 INFO supervisord started with pid 1
+2019-11-01 11:29:15,529 INFO spawned: 'php-fpm' with pid 8
+2019-11-01 11:29:16,772 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-01 11:29:26,363 WARN received SIGTERM indicating exit request
+2019-11-01 11:29:26,363 INFO waiting for php-fpm to die
+2019-11-01 11:29:26,409 INFO stopped: php-fpm (exit status 0)
+2019-11-01 11:30:37,376 CRIT Supervisor running as root (no user in config file)
+2019-11-01 11:30:37,377 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-01 11:30:37,423 INFO RPC interface 'supervisor' initialized
+2019-11-01 11:30:37,423 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-01 11:30:37,423 INFO supervisord started with pid 1
+2019-11-01 11:30:38,426 INFO spawned: 'php-fpm' with pid 8
+2019-11-01 11:30:39,708 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-03 12:44:09,882 CRIT Supervisor running as root (no user in config file)
+2019-11-03 12:44:09,883 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-03 12:44:10,200 INFO RPC interface 'supervisor' initialized
+2019-11-03 12:44:10,200 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-03 12:44:10,200 INFO supervisord started with pid 1
+2019-11-03 12:44:11,203 INFO spawned: 'php-fpm' with pid 9
+2019-11-03 12:44:12,439 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-03 15:13:03,795 WARN received SIGTERM indicating exit request
+2019-11-03 15:13:03,813 INFO waiting for php-fpm to die
+2019-11-03 15:13:04,078 INFO stopped: php-fpm (exit status 0)
+2019-11-03 15:13:15,572 CRIT Supervisor running as root (no user in config file)
+2019-11-03 15:13:15,572 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-03 15:13:15,587 INFO RPC interface 'supervisor' initialized
+2019-11-03 15:13:15,588 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-03 15:13:15,588 INFO supervisord started with pid 1
+2019-11-03 15:13:16,590 INFO spawned: 'php-fpm' with pid 8
+2019-11-03 15:13:17,767 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-04 19:36:50,799 CRIT Supervisor running as root (no user in config file)
+2019-11-04 19:36:50,800 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-04 19:36:51,120 INFO RPC interface 'supervisor' initialized
+2019-11-04 19:36:51,121 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-04 19:36:51,121 INFO supervisord started with pid 1
+2019-11-04 19:36:52,123 INFO spawned: 'php-fpm' with pid 8
+2019-11-04 19:36:53,382 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-04 19:39:24,993 WARN received SIGTERM indicating exit request
+2019-11-04 19:39:24,993 INFO waiting for php-fpm to die
+2019-11-04 19:39:25,030 INFO stopped: php-fpm (exit status 0)
+2019-11-04 19:59:51,789 CRIT Supervisor running as root (no user in config file)
+2019-11-04 19:59:51,793 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-04 19:59:51,859 INFO RPC interface 'supervisor' initialized
+2019-11-04 19:59:51,859 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-04 19:59:51,860 INFO supervisord started with pid 1
+2019-11-04 19:59:52,862 INFO spawned: 'php-fpm' with pid 8
+2019-11-04 19:59:54,123 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-06 03:49:25,333 WARN received SIGTERM indicating exit request
+2019-11-06 03:49:25,370 INFO waiting for php-fpm to die
+2019-11-06 03:49:25,863 INFO stopped: php-fpm (exit status 0)
+2019-11-06 14:52:49,099 CRIT Supervisor running as root (no user in config file)
+2019-11-06 14:52:49,099 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-06 14:52:49,127 INFO RPC interface 'supervisor' initialized
+2019-11-06 14:52:49,127 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-06 14:52:49,127 INFO supervisord started with pid 1
+2019-11-06 14:52:50,130 INFO spawned: 'php-fpm' with pid 8
+2019-11-06 14:52:51,392 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-06 15:25:54,652 WARN received SIGTERM indicating exit request
+2019-11-06 15:25:54,652 INFO waiting for php-fpm to die
+2019-11-06 15:25:54,675 INFO stopped: php-fpm (exit status 0)
+2019-11-06 15:27:05,463 CRIT Supervisor running as root (no user in config file)
+2019-11-06 15:27:05,463 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-06 15:27:05,483 INFO RPC interface 'supervisor' initialized
+2019-11-06 15:27:05,484 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-06 15:27:05,484 INFO supervisord started with pid 1
+2019-11-06 15:27:06,486 INFO spawned: 'php-fpm' with pid 8
+2019-11-06 15:27:07,737 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-06 15:31:16,317 WARN received SIGTERM indicating exit request
+2019-11-06 15:31:16,318 INFO waiting for php-fpm to die
+2019-11-06 15:31:16,354 INFO stopped: php-fpm (exit status 0)
+2019-11-06 15:32:21,805 CRIT Supervisor running as root (no user in config file)
+2019-11-06 15:32:21,806 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-06 15:32:21,836 INFO RPC interface 'supervisor' initialized
+2019-11-06 15:32:21,836 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-06 15:32:21,837 INFO supervisord started with pid 1
+2019-11-06 15:32:22,839 INFO spawned: 'php-fpm' with pid 8
+2019-11-06 15:32:24,165 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-06 16:47:16,062 WARN received SIGTERM indicating exit request
+2019-11-06 16:47:16,063 INFO waiting for php-fpm to die
+2019-11-06 16:47:16,106 INFO stopped: php-fpm (exit status 0)
+2019-11-06 16:48:07,329 CRIT Supervisor running as root (no user in config file)
+2019-11-06 16:48:07,330 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-06 16:48:07,371 INFO RPC interface 'supervisor' initialized
+2019-11-06 16:48:07,372 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-06 16:48:07,375 INFO supervisord started with pid 1
+2019-11-06 16:48:08,380 INFO spawned: 'php-fpm' with pid 8
+2019-11-06 16:48:09,711 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-06 16:49:32,987 WARN received SIGTERM indicating exit request
+2019-11-06 16:49:32,987 INFO waiting for php-fpm to die
+2019-11-06 16:49:33,027 INFO stopped: php-fpm (exit status 0)
+2019-11-06 16:50:24,048 CRIT Supervisor running as root (no user in config file)
+2019-11-06 16:50:24,049 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-06 16:50:24,077 INFO RPC interface 'supervisor' initialized
+2019-11-06 16:50:24,077 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-06 16:50:24,077 INFO supervisord started with pid 1
+2019-11-06 16:50:25,080 INFO spawned: 'php-fpm' with pid 8
+2019-11-06 16:50:26,391 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-06 16:54:39,833 WARN received SIGTERM indicating exit request
+2019-11-06 16:54:39,833 INFO waiting for php-fpm to die
+2019-11-06 16:54:39,883 INFO stopped: php-fpm (exit status 0)
+2019-11-06 16:55:07,009 CRIT Supervisor running as root (no user in config file)
+2019-11-06 16:55:07,010 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-06 16:55:07,038 INFO RPC interface 'supervisor' initialized
+2019-11-06 16:55:07,038 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-06 16:55:07,038 INFO supervisord started with pid 1
+2019-11-06 16:55:08,041 INFO spawned: 'php-fpm' with pid 8
+2019-11-06 16:55:09,343 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-06 16:58:46,752 WARN received SIGTERM indicating exit request
+2019-11-06 16:58:46,752 INFO waiting for php-fpm to die
+2019-11-06 16:58:46,781 INFO stopped: php-fpm (exit status 0)
+2019-11-06 17:00:30,737 CRIT Supervisor running as root (no user in config file)
+2019-11-06 17:00:30,741 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-06 17:00:30,786 INFO RPC interface 'supervisor' initialized
+2019-11-06 17:00:30,786 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-06 17:00:30,786 INFO supervisord started with pid 1
+2019-11-06 17:00:31,789 INFO spawned: 'php-fpm' with pid 8
+2019-11-06 17:00:33,071 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-06 17:07:00,868 WARN received SIGTERM indicating exit request
+2019-11-06 17:07:00,868 INFO waiting for php-fpm to die
+2019-11-06 17:07:00,891 INFO stopped: php-fpm (exit status 0)
+2019-11-06 17:07:38,473 CRIT Supervisor running as root (no user in config file)
+2019-11-06 17:07:38,474 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-06 17:07:38,488 INFO RPC interface 'supervisor' initialized
+2019-11-06 17:07:38,489 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-06 17:07:38,489 INFO supervisord started with pid 1
+2019-11-06 17:07:39,491 INFO spawned: 'php-fpm' with pid 8
+2019-11-06 17:07:40,776 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-11 10:47:31,549 WARN received SIGTERM indicating exit request
+2019-11-11 10:47:31,574 INFO waiting for php-fpm to die
+2019-11-11 10:47:32,110 INFO stopped: php-fpm (exit status 0)
+2019-11-11 10:48:24,126 CRIT Supervisor running as root (no user in config file)
+2019-11-11 10:48:24,127 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-11 10:48:24,159 INFO RPC interface 'supervisor' initialized
+2019-11-11 10:48:24,159 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-11 10:48:24,159 INFO supervisord started with pid 1
+2019-11-11 10:48:25,162 INFO spawned: 'php-fpm' with pid 8
+2019-11-11 10:48:26,436 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-12 15:55:29,976 WARN received SIGTERM indicating exit request
+2019-11-12 15:55:29,992 INFO waiting for php-fpm to die
+2019-11-12 15:55:30,258 INFO stopped: php-fpm (exit status 0)
+2019-11-12 15:55:50,723 CRIT Supervisor running as root (no user in config file)
+2019-11-12 15:55:50,724 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-12 15:55:50,756 INFO RPC interface 'supervisor' initialized
+2019-11-12 15:55:50,756 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-12 15:55:50,756 INFO supervisord started with pid 1
+2019-11-12 15:55:51,758 INFO spawned: 'php-fpm' with pid 8
+2019-11-12 15:55:52,991 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-13 15:53:13,180 WARN received SIGTERM indicating exit request
+2019-11-13 15:53:13,194 INFO waiting for php-fpm to die
+2019-11-13 15:53:13,449 INFO stopped: php-fpm (exit status 0)
+2019-11-13 15:53:40,798 CRIT Supervisor running as root (no user in config file)
+2019-11-13 15:53:40,798 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-13 15:53:40,825 INFO RPC interface 'supervisor' initialized
+2019-11-13 15:53:40,825 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-13 15:53:40,826 INFO supervisord started with pid 1
+2019-11-13 15:53:41,828 INFO spawned: 'php-fpm' with pid 8
+2019-11-13 15:53:43,106 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-14 14:17:33,729 WARN received SIGTERM indicating exit request
+2019-11-14 14:17:33,773 INFO waiting for php-fpm to die
+2019-11-14 14:17:34,332 INFO stopped: php-fpm (exit status 0)
+2019-11-14 14:23:55,784 CRIT Supervisor running as root (no user in config file)
+2019-11-14 14:23:55,784 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-14 14:23:55,826 INFO RPC interface 'supervisor' initialized
+2019-11-14 14:23:55,826 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-14 14:23:55,827 INFO supervisord started with pid 1
+2019-11-14 14:23:56,828 INFO spawned: 'php-fpm' with pid 8
+2019-11-14 14:23:58,102 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-14 14:25:27,778 WARN received SIGTERM indicating exit request
+2019-11-14 14:25:27,790 INFO waiting for php-fpm to die
+2019-11-14 14:25:28,017 INFO stopped: php-fpm (exit status 0)
+2019-11-14 14:30:33,086 CRIT Supervisor running as root (no user in config file)
+2019-11-14 14:30:33,087 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-14 14:30:33,163 INFO RPC interface 'supervisor' initialized
+2019-11-14 14:30:33,164 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-14 14:30:33,165 INFO supervisord started with pid 1
+2019-11-14 14:30:34,176 INFO spawned: 'php-fpm' with pid 8
+2019-11-14 14:30:35,858 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-14 16:57:14,192 WARN received SIGTERM indicating exit request
+2019-11-14 16:57:14,251 INFO waiting for php-fpm to die
+2019-11-14 16:57:14,802 INFO stopped: php-fpm (exit status 0)
+2019-11-14 16:58:06,680 CRIT Supervisor running as root (no user in config file)
+2019-11-14 16:58:06,681 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-14 16:58:06,710 INFO RPC interface 'supervisor' initialized
+2019-11-14 16:58:06,710 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-14 16:58:06,710 INFO supervisord started with pid 1
+2019-11-14 16:58:07,713 INFO spawned: 'php-fpm' with pid 8
+2019-11-14 16:58:09,032 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-14 19:18:40,695 WARN received SIGTERM indicating exit request
+2019-11-14 19:18:40,740 INFO waiting for php-fpm to die
+2019-11-14 19:18:41,206 INFO stopped: php-fpm (exit status 0)
+2019-11-14 19:23:19,873 CRIT Supervisor running as root (no user in config file)
+2019-11-14 19:23:19,873 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-14 19:23:19,897 INFO RPC interface 'supervisor' initialized
+2019-11-14 19:23:19,897 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-14 19:23:19,898 INFO supervisord started with pid 1
+2019-11-14 19:23:20,904 INFO spawned: 'php-fpm' with pid 8
+2019-11-14 19:23:22,197 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-26 10:52:34,806 WARN received SIGTERM indicating exit request
+2019-11-26 10:52:34,840 INFO waiting for php-fpm to die
+2019-11-26 10:52:35,449 INFO stopped: php-fpm (exit status 0)
+2019-11-26 10:53:33,838 CRIT Supervisor running as root (no user in config file)
+2019-11-26 10:53:33,839 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-26 10:53:33,888 INFO RPC interface 'supervisor' initialized
+2019-11-26 10:53:33,888 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-26 10:53:33,889 INFO supervisord started with pid 1
+2019-11-26 10:53:34,914 INFO spawned: 'php-fpm' with pid 8
+2019-11-26 10:53:36,768 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-28 22:26:35,248 WARN received SIGTERM indicating exit request
+2019-11-28 22:26:35,265 INFO waiting for php-fpm to die
+2019-11-28 22:26:35,609 INFO stopped: php-fpm (exit status 0)
+2019-11-29 19:09:10,680 CRIT Supervisor running as root (no user in config file)
+2019-11-29 19:09:10,682 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-11-29 19:09:10,699 INFO RPC interface 'supervisor' initialized
+2019-11-29 19:09:10,699 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-11-29 19:09:10,699 INFO supervisord started with pid 1
+2019-11-29 19:09:11,702 INFO spawned: 'php-fpm' with pid 8
+2019-11-29 19:09:13,025 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-12-02 14:09:44,442 WARN received SIGTERM indicating exit request
+2019-12-02 14:09:44,459 INFO waiting for php-fpm to die
+2019-12-02 14:09:44,784 INFO stopped: php-fpm (exit status 0)
+2019-12-02 14:10:15,495 CRIT Supervisor running as root (no user in config file)
+2019-12-02 14:10:15,500 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-12-02 14:10:15,533 INFO RPC interface 'supervisor' initialized
+2019-12-02 14:10:15,533 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-12-02 14:10:15,534 INFO supervisord started with pid 1
+2019-12-02 14:10:16,536 INFO spawned: 'php-fpm' with pid 8
+2019-12-02 14:10:17,856 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-12-02 14:11:43,570 WARN received SIGTERM indicating exit request
+2019-12-02 14:11:43,576 INFO waiting for php-fpm to die
+2019-12-02 14:11:43,679 INFO stopped: php-fpm (exit status 0)
+2019-12-02 14:14:58,473 CRIT Supervisor running as root (no user in config file)
+2019-12-02 14:14:58,477 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-12-02 14:14:58,499 INFO RPC interface 'supervisor' initialized
+2019-12-02 14:14:58,500 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-12-02 14:14:58,504 INFO supervisord started with pid 1
+2019-12-02 14:14:59,507 INFO spawned: 'php-fpm' with pid 8
+2019-12-02 14:15:00,799 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-12-02 17:33:15,347 WARN received SIGTERM indicating exit request
+2019-12-02 17:33:15,376 INFO waiting for php-fpm to die
+2019-12-02 17:33:15,978 INFO stopped: php-fpm (exit status 0)
+2019-12-02 17:34:17,481 CRIT Supervisor running as root (no user in config file)
+2019-12-02 17:34:17,482 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-12-02 17:34:17,517 INFO RPC interface 'supervisor' initialized
+2019-12-02 17:34:17,517 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-12-02 17:34:17,517 INFO supervisord started with pid 1
+2019-12-02 17:34:18,521 INFO spawned: 'php-fpm' with pid 8
+2019-12-02 17:34:19,801 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-12-02 21:06:58,752 WARN received SIGTERM indicating exit request
+2019-12-02 21:06:58,756 INFO waiting for php-fpm to die
+2019-12-02 21:06:58,896 INFO stopped: php-fpm (exit status 0)
+2019-12-02 21:07:38,767 CRIT Supervisor running as root (no user in config file)
+2019-12-02 21:07:38,767 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2019-12-02 21:07:38,781 INFO RPC interface 'supervisor' initialized
+2019-12-02 21:07:38,782 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2019-12-02 21:07:38,782 INFO supervisord started with pid 1
+2019-12-02 21:07:39,783 INFO spawned: 'php-fpm' with pid 8
+2019-12-02 21:07:41,031 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
