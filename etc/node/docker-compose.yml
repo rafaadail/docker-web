@@ -3,18 +3,17 @@ node:
     expose:
         - "19000"
         - "19001"
-        - "19002"
     ports:
         # DASHBOARD PRODUÇÃO
         - "3000:3000"
         - "3002:3002"
         - "3333:3333"
-        - "19002:19002"
         - "19001:19001"
         - "19000:19000"
 #    restart: always
     tty: true
     environment:
-        REACT_NATIVE_PACKAGER_HOSTNAME: 172.17.0.11
+        ADB_IP: 192.168.110.43
+        REACT_NATIVE_PACKAGER_HOSTNAME: 192.168.1.247
     volumes:
         - ../../../:/var/www

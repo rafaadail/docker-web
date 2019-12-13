@@ -12,9 +12,11 @@ COPY package.json /var/www/omnistack9.0/
 
 EXPOSE 19000
 EXPOSE 19001
-EXPOSE 19002
+#EXPOSE 19002
 
-ENV REACT_NATIVE_PACKAGER_HOSTNAME="172.17.0.11"
+
+ENV ADB_IP="192.168.110.43"
+ENV REACT_NATIVE_PACKAGER_HOSTNAME="192.168.1.247"
 
 RUN apt-get update \
 && apt-get install curl \
@@ -22,6 +24,10 @@ RUN apt-get update \
 RUN curl -sS http://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add - \
 && echo "deb http://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list
 RUN apt-get update && apt-get install --no-install-recommends yarn
+#RUN apt-get update && apt-get install android-tools-adb android-tools-fastboot
+#
+#CMD adb connect $ ADB_IP && \
+#    yarn run android
 #RUN  yarn global add create-react-app
 
 #ADD src /usr/src/app/src
@@ -34,5 +40,6 @@ RUN apt-get update && apt-get install --no-install-recommends yarn
 #COPY . .
 
 RUN npm build
-#
-#CMD [ "npm", "start" ]
+
+#CMD adb connect $ADB_IP && \
+#yarn run android
