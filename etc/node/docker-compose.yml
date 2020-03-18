@@ -13,7 +13,7 @@ node:
 #    restart: always
     tty: true
     environment:
-        ADB_IP: 192.168.110.43
-        REACT_NATIVE_PACKAGER_HOSTNAME: 192.168.1.247
+        ADB_IP: 192.168.15.10
+        REACT_NATIVE_PACKAGER_HOSTNAME: 192.168.15.25
     volumes:
         - ../../../:/var/www

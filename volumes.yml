@@ -6,3 +6,5 @@ etenv:
     - ../LARAVEL/api-rest-webpizza:/var/www/LARAVEL/api-rest-webpizza
     - ../LARAVEL/api-webpizza:/var/www/LARAVEL/api-webpizza
     - ../omnistack9.0:/var/www/omnistack9.0
+    - ../topcomanda:/var/www/topcomanda
+    - ../dump:/var/dump
